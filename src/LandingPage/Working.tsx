@@ -16,7 +16,7 @@ const Working = () => {
         <div className="flex px-16 justify-between items-center">
           <div className="relative">
             <img className="w-[40rem]" src={WorkingGirl} alt="working girl" />
-            <div className="w-36 absolute top-[10%] -right-24 flex flex-col items-center gap-1 border border-green-400 rounded-xl py-3 px-1 backdrop-blur-md">
+            <div className="w-36 absolute top-[40%] -right-24 flex flex-col items-center gap-1 border border-green-400 rounded-xl py-3 px-1 backdrop-blur-md">
               <Avatar className="!h-16 !w-16" src="https://animetv-jp.net/wp-content/uploads/2025/02/GjF9D7-W8AA4T69-e1738833088462.jpg" alt="it's me" />
               <div className="text-sm font-semibold text-mine-shaft-200 text-center">Complete your profile</div>
               <div className="text-xs text-green-300">70% Completed</div>
