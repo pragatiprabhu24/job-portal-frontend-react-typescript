@@ -7,7 +7,7 @@ import NavLinks from "./NavLinks";
 const Header = () => {
   return (
     <>
-      <div className="w-full bg-mine-shaft-950 px-6 h-20 text-white flex justify-between items-center">
+      <div className="w-full bg-mine-shaft-950 px-6 h-20 text-white flex justify-between items-center font-['poppins']">
         <div className="flex gap-3 items-center">
           <IconCheckbox className="h-10 w-10 text-green-500" stroke={1.25} />
           <div className="text-3xl font-semibold">ProHirely</div>

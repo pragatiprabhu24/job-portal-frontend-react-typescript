@@ -5,7 +5,7 @@ import { IconSearch } from "@tabler/icons-react";
 const DreamJob = () => {
   return (
     <>
-      <div className="flex items-center px-16 mt-20">
+      <div className="flex items-center px-16 pt-20">
         <div className="flex flex-col w-[45%]">
           <div className="text-6xl font-bold leading-tight text-green-300 [&>span]:text-white">
             Your next <span>big career</span> move starts <span>with us.</span>
